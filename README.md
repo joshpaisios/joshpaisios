@@ -1,7 +1,1 @@
-### Christ is risen!
-
-### Χριστός ἀνέστη!
-
-### Хрїсто́съ воскре́се!
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Resurrection_%2824%29.jpg/220px-Resurrection_%2824%29.jpg" alt="icon">
+<img src=https://i.pinimg.com/originals/72/e7/30/72e730c31565fb5a669dc2b5f944bbfd.png height=500px>
